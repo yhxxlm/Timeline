@@ -20,6 +20,7 @@ Timeline
         ));
   
       ?>
-```php  
+```
+====  
 ### [See also]:
 *  <https://github.com/VeriteCo/TimelineJS>
