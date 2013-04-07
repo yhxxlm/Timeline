@@ -1,13 +1,14 @@
 Timeline
 ========
 
-Yii TimelineJs extension
+*  Yii TimelineJs extension
 
- ### [Setup]:
-  This extension have to be installed into:
-  Yii-Application/proected/extensions/Timeline
+### [Setup]:
+*  This extension have to be installed into:
+*  Yii-Application/proected/extensions/Timeline
   
- ### [Usage]:
+### [Usage]:
+```php
      <?php $this->widget('ext.Timeline.Timeline', array(
        'id'=>'demo',
        'language'=>'zh-cn',
@@ -19,6 +20,6 @@ Yii TimelineJs extension
         ));
   
       ?>
-  
- ### [See also]:
-  <https://github.com/VeriteCo/TimelineJS>
+```php  
+### [See also]:
+*  <https://github.com/VeriteCo/TimelineJS>
